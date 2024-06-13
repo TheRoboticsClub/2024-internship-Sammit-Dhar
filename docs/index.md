@@ -3,7 +3,7 @@ layout: home
 ---
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="logo.png" alt="org logo" width="200"> 
+    <img src="assets/logo.png" alt="org logo" width="200"> 
 </div>
 <br>
 <p style="text-align: center">
