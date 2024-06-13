@@ -4,7 +4,7 @@ title: About
 permalink: /about/ 
 ---
 
-<img src = "../assets/pfp.jpeg" alt = "profile picture" width="350"> 
+<img src = "./assets/pfp.jpeg" alt = "profile picture" width="350"> 
 
 Hello there! I am Sammit Dhar. 
 
