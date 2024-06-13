@@ -8,4 +8,4 @@ layout: home
 <br>
 <p style="text-align: center">
 
-Welcome to my blog. I am working on the repository 'FPGA-Robotics' for my internship, under my mentors José M. Cañas and Rubén Nieto.
+Welcome to my blog! I am working on the repository 'FPGA-Robotics' for my internship, under my mentors José M. Cañas and Rubén Nieto.
