@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Internship 2024 | JDERobot | Sammit Dhar
 baseurl: "/2024-internship-Sammit-Dhar/" # the subpath of your site, e.g. /blog
 url: "https://github.com/sdhar04" # the base hostname & protocol for your site, e.g. http://example.com
-linkedin_username : /in/sammit-dhar
+linkedin_username : sammit-dhar
 github_username:  sdhar04
 # Custom added fields
 author: Sammit Dhar
